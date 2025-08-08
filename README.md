@@ -2,9 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I've worked at Infosys and City University of New York.\
-🌱 &nbsp;Currently Learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+💡 &nbsp;This is the home for all things related to the development and maintenance of StackBot.
 
 
 ### 🛠 &nbsp;Tech Stack
