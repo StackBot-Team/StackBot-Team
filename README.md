@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;This is the home for all things related to the development and maintenance of StackBot.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
 
 ### 🛠 &nbsp;Tech Stack
